@@ -72,3 +72,5 @@
   $info = $gp_info.$gp_types.$gp_titles.$gp_ids.$user_info.$user_first_names.$user_last_names.$user_names.$user_ids.$from_info.$from_first_names.$from_last_names.$from_usernames.$from_ids.$chat_info.$from_chat_types.$from_chat_titles.$from_chat_usernames.$from_chat_ids.$from_chat_msg_ids;
   sendMessage($chat_id,$info);
 ?>
+
+--@HoranTeam
