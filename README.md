@@ -1,6 +1,3 @@
-< !-- UserInfo سورس ربات  -- >
-
-< p >  آیدی عدیدی شما
-Id: نمایش ایدی عددی شنا
-First: نام شما < /p >
-< p >   < /p >
+#UserInfo 
+<h2> [سازنده](https://telegram.me/zZzSedBoYzZz)
+<h2> [کانال](https://telegram.me/HoranTeam)
